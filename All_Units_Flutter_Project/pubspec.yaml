@@ -1,0 +1,28 @@
+name: all_units_flutter_practicals
+description: Combined Flutter/Dart practicals for Units I-V.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: any
+  flutter_riverpod: any
+  state_notifier: any
+  flutter_bloc: any
+  path_provider: any
+  shared_preferences: any
+  http: any
+  image_picker: any
+  flutter_cache_manager: any
+  hive_flutter: any
+  connectivity_plus: any
+  share_plus: any
+  sqflite: any
+  path: any
+
+flutter:
+  uses-material-design: true
